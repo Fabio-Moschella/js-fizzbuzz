@@ -2,6 +2,10 @@
 const multipliDi3 = "Fizz";
 const multipliDi5 = "Buzz";
 const multipli3E5 = "FizzBuzz";
-
-// se l indice e uguale a 1 e i multiplidi3 sono maggiori di 3 allora i aumenta di 2..
-for (let i = 1; multipliDi3 > 3; i = i + 3);
+let i;
+// se l indice e` uguale a 1 e l indice e` minore di 0, l`indice aumenta di 1
+for (let i = 1; i < 100; i++);
+{
+  //ed in console stampa i numeri da 1 a 100
+  console.log(i);
+}
